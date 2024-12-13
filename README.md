@@ -1,0 +1,1 @@
+This sketch is designed to run on an ATTiny Atmega and communicate to a master over I2C.  It handles the details of communication over 477 MHz via a commodity wireless module to get data from AmbientWeather weather probes.
